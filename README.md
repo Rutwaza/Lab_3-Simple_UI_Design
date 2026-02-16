@@ -15,3 +15,6 @@ This lab is for understanding UI basics in the Flutter framework. It focuses on 
 1. Open this project in your IDE.
 2. Run the app on an emulator or physical device.
 
+## THE OUTPUT SCREENSHOT 
+
+![UI screenshot](lib/documantation/screenshot.png)
