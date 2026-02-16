@@ -17,4 +17,4 @@ This lab is for understanding UI basics in the Flutter framework. It focuses on 
 
 ## THE OUTPUT SCREENSHOT 
 
-![UI screenshot](Lab_3-Simple_UI_Design/blob/main/lib/documantation/Screenshot.png)
+![UI screenshot](lib/documantation/Screenshot.png)
